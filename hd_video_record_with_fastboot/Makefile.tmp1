@@ -1,0 +1,3 @@
+src = $(wildcard */*.c *.c)
+all:
+	@echo $(src)

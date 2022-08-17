@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "socket.h": "c",
+        "file_save_assign.h": "c",
+        "global_value.h": "c"
+    }
+}
